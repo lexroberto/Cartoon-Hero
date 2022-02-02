@@ -1,0 +1,20 @@
+body{
+	background-color: lightgoldenrodyellow;
+}
+
+h1{
+	font size: 30px;
+	color: teal;
+	}
+
+	h2 {
+	color: red;
+	}
+
+	.big{
+	font size: 100px;
+	}
+
+	.uppercase{
+	text-transform: uppercase;
+	}
